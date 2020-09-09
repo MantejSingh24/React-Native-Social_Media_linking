@@ -6,7 +6,6 @@ import SignUp from './Screens/SignUp';
 import Login from './Screens/Login';
 import Loading from './Screens/Loading';
 import Main from './Screens/Main';
-// create our app's navigation stack
 
 const Stack = createStackNavigator();
 

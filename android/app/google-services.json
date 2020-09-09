@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "253812716665-m5ak90qriiluuuagtqit6d12q9p9tnff.apps.googleusercontent.com",
+          "client_id": "253812716665-ql8jlespnnuenchvcrfqhgpjv432qbm6.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.rnfb_socialmedialogin",
-            "certificate_hash": "129aae2f7fa4ff18363ff6b05b29aedb2eeb7793"
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
           }
         },
         {
